@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Aryan Mathur, findme on Git as @neverthesameagain
-- 👀 I’m interested in imagining and hustling
+- 🙋🏻‍♂️Hi, I’m Aryan Mathur, a first year undergrad at IIT Palakkad, findme on Git as @neverthesameagain
+- I’m interested in imagining and hustling
 - 🌱 I’m currently learning front end development, NLP, ML
-- 💞️ I’m looking to collaborate on anything that has python?
+- I’m looking to collaborate on anything that has python?
 - 📫 find me on aryannmathur@gmail.com
 
 <!---
