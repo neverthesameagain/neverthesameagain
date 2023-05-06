@@ -3,11 +3,9 @@
 - 🌱 I’m currently learning front end development, NLP, ML
 - I’m looking to collaborate on anything that has python?
 - 📫 find me on aryannmathur@gmail.com
--
--
--
 
--🛠  Tech Stack
+
+🛠  Tech Stack
 
 Python JavaScript HTML5 CSS3
 MySQL NumPy Pandas 
