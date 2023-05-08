@@ -27,9 +27,9 @@
 
 - I’m interested in imagining and hustling
 
-- 🌱 I’m currently learning front end development, NLP, ML
+- 🌱 I’m currently learning UI/UX development, NLP, ML
 
-- I’m looking to collaborate on anything that has python?
+-  For now I’m looking to collaborate on anything that has python?
 
 - 📫 find me on aryannmathur@gmail.com
 
