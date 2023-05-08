@@ -5,9 +5,11 @@
 </div>
 
 
-<h1>
+<h1 align=center>
   Hey There!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <p>
+  I am Aryan Mathur!
 </h1>
 <img src="https://komarev.com/ghpvc/?username=neverthesameagain&style=flat-square&color=blue" alt=""/>
 <div id="badges">
@@ -23,7 +25,7 @@
 </div>
 
 
--  I’m Aryan Mathur, a first year undergrad at IIT Palakkad, findme on Git as @neverthesameagain
+-  I’m a first year undergrad at IIT Palakkad pursuing B.Tech in Electrical Engineering, findme on Git as @neverthesameagain
 
 - I’m interested in imagining and hustling
 
@@ -52,6 +54,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+<p align=center>
+  <a href="https://github.com/neverthesameagain">
+    <img src="https://badges.pufler.dev/visits/neverthesameagain/neverthesameagain?style=plastic&color=#007500&logo=github">
+  </a>
+  <a href="https://github.com/neverthesameagain?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/neverthesameagain?style=plastic&color=#007500&logo=github">
+  </a>
+</p>
+
 
 <!---
 neverthesameagain/neverthesameagain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
