@@ -55,13 +55,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-<p align=center>
-  <a href="https://github.com/neverthesameagain">
-    <img src="https://badges.pufler.dev/visits/neverthesameagain/neverthesameagain?style=plastic&color=#007500&logo=github">
+<p align="center">
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=neverthesameagain&show_icons=true&theme=chartreuse-dark&cache_seconds=3000&locale=en" alt="SyedMa3" />
   </a>
-  <a href="https://github.com/neverthesameagain?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/neverthesameagain?style=plastic&color=#007500&logo=github">
-  </a>
+  <a><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neverthesameagain&count_private=true&include_all_commits=true&theme=chartreuse-dark&layout=compact">
+  </a>  
 </p>
 
 
