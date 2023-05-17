@@ -11,6 +11,9 @@
   <p>
   I am Aryan Mathur!
 </h1>
+<h2 align=center>
+  It's not in the stars if it's only me commiting for redundant files.
+ </h2>
 <img src="https://komarev.com/ghpvc/?username=neverthesameagain&style=flat-square&color=blue" alt=""/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/aryan-mathur-a760a2250">
