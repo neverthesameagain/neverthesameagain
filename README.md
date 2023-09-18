@@ -58,8 +58,7 @@
 </div>
 
 <p align="center">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=neverthesameagain&show_icons=true&theme=chartreuse-dark&cache_seconds=3000&locale=en" alt="SyedMa3" />
-  </a>
+
   <a><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neverthesameagain&count_private=true&include_all_commits=true&theme=chartreuse-dark&layout=compact">
   </a>  
 </p>
