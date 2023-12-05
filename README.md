@@ -28,13 +28,13 @@
 </div>
 
 
--  I’m a first year undergrad at IIT Palakkad pursuing B.Tech in Electrical Engineering, findme on Git as @neverthesameagain
+-  I’m asophomore at IIT Palakkad pursuing B.Tech in Electrical Engineering, findme on Git as @neverthesameagain
 
-- I’m interested in imagining and hustling
+- Constantly imagining and hustling
 
-- 🌱 I’m currently learning UI/UX development, NLP, ML, ReactJS 
+- I am currently learning NLP, working on LLMs and have been doing sentiment analysis lately
 
--  For now I’m looking to collaborate on anything that has python?
+-  I am currently working on a Behaviour Simulation Challenge using NLP by Adobe.
 
 - 📫 find me on aryannmathur@gmail.com 
 
