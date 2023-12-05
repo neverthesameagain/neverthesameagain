@@ -32,7 +32,7 @@
 
 - Constantly imagining and hustling
 
-- I am currently learning NLP, working on LLMs and have been doing sentiment analysis lately
+- I am currently practising NLP, working on LLMs and have been doing sentiment analysis lately
 
 -  I am currently working on a Behaviour Simulation Challenge using NLP by Adobe.
 
