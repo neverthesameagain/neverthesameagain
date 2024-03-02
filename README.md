@@ -19,9 +19,7 @@
   <a href="https://www.linkedin.com/in/aryan-mathur-a760a2250">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn "/>
   </a>
-  <a href="https://www.youtube.com/channel/UCVbNMlEB6ATUPYfZAwEKF4g">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube "/>
-  </a>
+
   <a href="https://www.instagram.com/aryannnmathur/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -32,9 +30,9 @@
 
 - Constantly imagining and hustling
 
-- I am currently practising NLP, working on LLMs and have been doing sentiment analysis lately
+-  I am currently practising NLP, working on LLMs and have been doing sentiment analysis lately
 
--  I am currently working on a Behaviour Simulation Challenge using NLP by Adobe.
+-  I am currently working on multiple projects. Some of which and the ones done before can be seen in my Repositories.
 
 - 📫 find me on aryannmathur@gmail.com 
 
