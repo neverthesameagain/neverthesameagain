@@ -26,11 +26,11 @@
 </div>
 
 
--  I’m asophomore at IIT Palakkad pursuing B.Tech in Electrical Engineering, findme on Git as @neverthesameagain
+-  I’m a Third year undergrad at IIT Palakkad pursuing B.Tech in Electrical Engineering, find me on Git as @neverthesameagain
 
 - Constantly imagining and hustling
 
--  I am currently practising Computer Vision.
+-  I am currently a lot into Computer Vision.
 
 -  I am currently working on multiple projects. Some of which and the ones done before can be seen in my Repositories.
 
