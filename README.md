@@ -25,17 +25,18 @@ My work spans **AI/ML**, **Full-Stack Development**, and **systems that solve re
 
 ---
 
-##  What do I Do
+##  What do I Do?
 
-** AI & Machine Learning**  
+**AI & Machine Learning**
+
 I build and deploy models for **Computer Vision** and **NLP**, focusing on high accuracy and scalability.  
 *Tools:* `Python`, `PyTorch`, `TensorFlow`, `AWS SageMaker`
 
-** Full-Stack Development**  
+**Full-Stack Development**  
 I develop responsive and user-friendly apps with a focus on seamless UX.  
 *Tools:* `C++`,`Django`, `JavaScript`, `HTML/CSS`, `Bootstrap`, `SQLite`
 
-** Competitive Programming**  
+**Competitive Programming**  
 I sharpen my problem-solving skills by tackling algorithmic challenges.  
 *Platforms:* `LeetCode`, `GeeksforGeeks`
 
