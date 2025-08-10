@@ -1,78 +1,77 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Q8xuJjjxQHHJdHn7gJ/giphy.gif" width="100"/>
-
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
-
-
-<h1 align=center>
-  Hey There!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <p>
-  I am Aryan Mathur!
-</h1>
-<h2 align=center>
-  It's not in the stars if it's only me commiting for redundant files.
- </h2>
-<img src="https://komarev.com/ghpvc/?username=neverthesameagain&style=flat-square&color=blue" alt=""/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/aryan-mathur-a760a2250">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn "/>
-  </a>
-
-  <a href="https://www.instagram.com/aryannnmathur/">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
-
-
--  I’m a Third year undergrad at IIT Palakkad pursuing B.Tech in Electrical Engineering, find me on Git as @neverthesameagain
-
-- Constantly imagining and hustling
-
--  I am currently a lot into Computer Vision.
-
--  I am currently working on multiple projects. Some of which and the ones done before can be seen in my Repositories.
-
-- 📫 find me on aryannmathur@gmail.com 
-
-
-
-
-
-
-### :hammer_and_wrench: Tech Stack :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
-</div>
-
+<!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverthesameagain&count_private=true&include_all_commits=true&theme=chartreuse-dark&layout=compact"></a>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Aryan+Mathur+%F0%9F%91%8B;Electrical+Engineering+%40+IIT+Palakkad;AI+Engineer+%7C+Full-Stack+Developer;Problem+Solver+%7C+Open-Source+Contributor;Always+Learning+New+Things+" />
 </p>
 
-## :speech_balloon: Soft Skills
-- Problem Solving
-- Communication
-- Teamwork
-- Time Management
-- Adaptability
-- Creativity
-- Leadership
-- Critical Thinking
-- Continuous Learning
+<!-- WAVY GRADIENT HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00c6ff,100:0072ff&section=header" />
+</p>
 
+<!-- SOCIAL LINKS -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryannmathur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:aryannmathur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=neverthesameagain&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
+---
 
-## :wave: See You Around!
+##  About Me
+I’m a **final-year Electrical Engineering student at IIT Palakkad** who loves turning complex problems into impactful, scalable solutions.  
+My work spans **AI/ML**, **Full-Stack Development**, and **systems that solve real-world challenges**.  
+
+ *Core philosophy:* **"Learn. Build. Share. Repeat."**
+
+---
+
+##  What do I Do
+
+** AI & Machine Learning**  
+I build and deploy models for **Computer Vision** and **NLP**, focusing on high accuracy and scalability.  
+*Tools:* `Python`, `PyTorch`, `TensorFlow`, `AWS SageMaker`
+
+** Full-Stack Development**  
+I develop responsive and user-friendly apps with a focus on seamless UX.  
+*Tools:* `C++`,`Django`, `JavaScript`, `HTML/CSS`, `Bootstrap`, `SQLite`
+
+** Competitive Programming**  
+I sharpen my problem-solving skills by tackling algorithmic challenges.  
+*Platforms:* `LeetCode`, `GeeksforGeeks`
+
+---
+
+##  Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 🎬 **Fight Scene Detection** | CNN-BiLSTM model that detects violent scenes in videos and generates highlights. Achieved **93.5% accuracy**. | Python, TensorFlow, OpenCV |
+| 🖼 **AI-Generated Image Detection** | Detects AI-generated images and explains *why* using multimodal learning. **96.5% accuracy**. | PyTorch, Transformers, VLMs |
+| 🎓 **CMate** | All-in-one campus companion app for students with study rooms, resource sharing, and event management. | Django, JavaScript, Bootstrap |
+| 📈 **Stock Market Predictor** | Predictive modeling + NLP sentiment analysis from financial news. | TensorFlow, SQL, NLP |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverthesameagain&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=neverthesameagain&theme=tokyonight&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+</p>
+
+---
+
+##  Let’s Connect ?
+📌 [LinkedIn](https://www.linkedin.com/in/aryannmathur/)  
+📧 [Email Me](mailto:aryannmathur@gmail.com)  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,100:0072ff&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30" />
+</p>
+
