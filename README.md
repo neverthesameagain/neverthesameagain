@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Aryan+Mathur+%F0%9F%91%8B;Electrical+Engineering+%40+IIT+Palakkad;AI+Engineer+%7C+Full-Stack+Developer+%7C+Researcher;Problem+Solver+%7C+Open-Source+Contributor;Always+Learning+New+Things+" />
 </p>
 
+
+##  GitHub Trophies
+[![trophy](https://github-trophies.vercel.app/?username=neverthesameagain&theme=darkhub&rank=SECRET,SSS,S,AAA,AA,A,B)](https://github.com/lucthienphong1120/github-trophies)
+
 <!-- WAVY GRADIENT HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00c6ff,100:0072ff&section=header" />
