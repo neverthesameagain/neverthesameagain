@@ -4,7 +4,6 @@
 </p>
 
 
-##  GitHub Trophies
 [![trophy](https://github-trophies.vercel.app/?username=neverthesameagain&theme=darkhub&rank=SECRET,SSS,S,AAA,AA,A,B)](https://github.com/lucthienphong1120/github-trophies)
 
 <!-- WAVY GRADIENT HEADER -->
