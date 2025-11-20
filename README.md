@@ -1,16 +1,29 @@
-<!-- WELCOME ANIMATION -->
+<!-- WELCOME ANIMATION (MATRIX STYLE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Aryan+Mathur+👋;Electrical+Engineering+@+IIT+Palakkad;AI+Engineer+%7C+Full-Stack+Developer+%7C+Researcher;Building+Intelligent+%26+Explainable+Systems;Always+Learning+New+Things+" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Aryan+Mathur+👋;Electrical+Engineering+@+IIT+Palakkad;AI+Engineer+%7C+Full-Stack+Developer+%7C+Researcher;Building+Intelligent+%26+Explainable+Systems;Always+Learning+New+Things+" />
 </p>
 
-<!-- WAVY GRADIENT HEADER -->
+<!-- WAVY GRADIENT HEADER (MATRIX NEON GREEN) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00c6ff,100:0072ff&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00FF41,50:00D435,100:009F29&section=header" />
 </p>
+
+
+
+
+<p align="center">
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=neverthesameagain&show_icons=true&theme=chartreuse-dark&cache_seconds=3000&locale=en" alt="Aryan" />
+  </a>
+  <a><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=neverthesameagain&exclude_repo=ncf,DAC-ml,smile-detector,lichess-user-rating,midprep-cloudphy,eva8,CP&count_private=true&include_all_commits=true&theme=chartreuse-dark&layout=compact">
+  </a>  
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=neverthesameagain&theme=chartreuse-dark&hide_border=false" /> 
+</p>
+
+
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://neverthesameagain.github.io/aryanmathur.github.io/"><img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="https://neverthesameagain.github.io/aryanmathur.github.io/"><img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/aryannmathur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aryannmathur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=neverthesameagain&style=for-the-badge&color=00C6FF" alt="Profile Views" />
@@ -74,7 +87,7 @@ These works reflect my ongoing research interests in:
 ---
 ## ⚙️ Tech Stack
 
-### 🧠 Machine Learning & Deep Learning  
+###  Machine Learning & Deep Learning  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?logo=ultralytics&logoColor=black)
@@ -85,7 +98,7 @@ These works reflect my ongoing research interests in:
 
 ---
 
-### 🧩 Reinforcement Learning / Simulation  
+###  Reinforcement Learning / Simulation  
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0078D7?logo=openai&logoColor=white)
 ![MiniGrid](https://img.shields.io/badge/MiniGrid-2E8B57?logo=python&logoColor=white)
 ![BabyAI](https://img.shields.io/badge/BabyAI-6A5ACD?logo=python&logoColor=white)
@@ -96,7 +109,7 @@ These works reflect my ongoing research interests in:
 
 ---
 
-### 💻 Software Engineering & UX  
+###  Software Engineering & UX  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
@@ -109,7 +122,7 @@ These works reflect my ongoing research interests in:
 
 ---
 
-### 🎥 Computer Vision / Image Processing  
+###  Computer Vision / Image Processing  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
@@ -119,7 +132,7 @@ These works reflect my ongoing research interests in:
 
 ---
 
-### ⚡ Embedded Systems & IoT  
+###  Embedded Systems & IoT  
 ![ESP32](https://img.shields.io/badge/ESP32-003B57?logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-25D366?logo=wifi&logoColor=white)
@@ -129,7 +142,7 @@ These works reflect my ongoing research interests in:
 
 ---
 
-### 🛠 DevOps & Workflow Automation  
+###  DevOps & Workflow Automation  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?logo=azuredevops&logoColor=white)
@@ -140,7 +153,7 @@ These works reflect my ongoing research interests in:
 
 ---
 
-### 📐 Mathematical & Scientific Computing  
+###  Mathematical & Scientific Computing  
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
@@ -150,36 +163,24 @@ These works reflect my ongoing research interests in:
 
 ---
 
-### 🧑‍💻 Currently Exploring
+###  Currently Exploring
 * Multimodal Representation Learning  
 * Lightweight Edge AI Inference  
 * Vision-Language Alignment  
 * Efficient Transformer Architectures for RL
 
----
 
-##  GitHub Highlights
 
-[![trophy](https://github-trophies.vercel.app/?username=neverthesameagain&theme=darkhub&rank=SECRET,SSS,S,AAA,AA,A,B)](https://github.com/lucthienphong1120/github-trophies)
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverthesameagain&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neverthesameagain&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🌐 Portfolio
+##  Portfolio
 🖥️ Check out my interactive portfolio:  
 👉 [**neverthesameagain.github.io/aryanmathur.github.io**](https://neverthesameagain.github.io/aryanmathur.github.io/)
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect?
 📌 [LinkedIn](https://www.linkedin.com/in/aryannmathur/)  
 📧 [Email Me](mailto:aryannmathur@gmail.com)
 
@@ -187,4 +188,9 @@ These works reflect my ongoing research interests in:
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00c6ff,100:0072ff&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=28" />
+</p>
+
+<p align="center">
+  
+[![trophy](https://github-trophies.vercel.app/?username=neverthesameagain&theme=matrix&rank=SECRET,SSS,S,AAA,AA,A,B)](https://github.com/lucthienphong1120/github-trophies)
 </p>
