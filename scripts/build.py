@@ -213,56 +213,6 @@ def experience():
     write("experience.svg", svg(W, H, back + "".join(out) + front, ["title", "mono", "body"], style, "Experience"))
 
 
-# ── Jozzo ─────────────────────────────────────────────────────────────────────
-
-def jozzo():
-    H = 400
-    back, front = frame(W, H, glow=BUILD, glow_at=(1.0, 0.0))
-    left = [f'<text x="40" y="58" class="mono" font-size="12.5" fill="{BUILD}" letter-spacing="2.5">FLAGSHIP · AFTER HOURS · LIVE</text>',
-            f'<text x="36" y="134" class="display" font-size="72" fill="{INK}" letter-spacing="-2">Jozzo</text>',
-            f'<circle cx="{36 + measure("Jozzo", "display", 72, -2) + 10:.1f}" cy="124" r="8" fill="{SIGNAL}"/>']
-    tag = ("Shared group state for friends and flatmates: habits, shopping lists, split bills and "
-           "running tabs with the milkman, all driven by one escalating nudge engine.")
-    left.append(text_block(40, 176, wrap(tag, "body", 17, 420), "body", 17, DIM, 25))
-    c, _ = chips(40, 268, ["web · Next.js PWA", "android · Compose", "ios · SwiftUI"], size=12.5, h=28, pad=11, color=INK)
-    left.append(c)
-    left.append(f'<text x="40" y="330" class="mono" font-size="12.5" fill="{FAINT}">Next.js 15 · Drizzle · Neon Postgres · Inngest · Kotlin · Swift</text>')
-    left.append(f'<text x="40" y="362" class="mono-med" font-size="14" fill="{SIGNAL}">jozzo.in ↗</text>')
-
-    # Diagram: four pillars feed one nudges table, which climbs one escalation ladder.
-    px, pw, ph = 528, 112, 38
-    pillars = [("Habits", LAB), ("Lists", BUILD), ("Money", SIGNAL), ("Tally", INK)]
-    hub_x, hub_y, hub_w, hub_h = 696, 172, 112, 56
-    d = [f'<text x="{px}" y="58" class="mono" font-size="11.5" fill="{FAINT}" letter-spacing="1.5">ONE ENGINE, EVERY OBJECT</text>']
-    for i, (label, col) in enumerate(pillars):
-        y = 82 + i * 62
-        d.append(f'<rect x="{px}" y="{y}" width="{pw}" height="{ph}" rx="10" fill="{INSET}" stroke="{LINE_STRONG}"/>'
-                 f'<circle cx="{px + 16}" cy="{y + ph / 2}" r="4" fill="{col}"/>'
-                 f'<text x="{px + 30}" y="{y + 24}" class="mono" font-size="13" fill="{INK}">{label}</text>')
-        sx, sy = px + pw, y + ph / 2
-        ex, ey = hub_x, hub_y + hub_h / 2
-        p = f"M{sx} {sy} C{sx + 34} {sy} {ex - 34} {ey} {ex} {ey}"
-        d.append(f'<path d="{p}" fill="none" stroke="{LINE_STRONG}"/>'
-                 f'<circle r="3" fill="{col}"><animateMotion dur="2.4s" begin="{i * 0.6}s" repeatCount="indefinite" path="{p}"/></circle>')
-    d.append(f'<rect x="{hub_x}" y="{hub_y}" width="{hub_w}" height="{hub_h}" rx="12" fill="{RAISED}" stroke="{SIGNAL}"/>'
-             f'<text x="{hub_x + hub_w / 2}" y="{hub_y + 25}" text-anchor="middle" class="mono-med" font-size="13" fill="{INK}">nudges</text>'
-             f'<text x="{hub_x + hub_w / 2}" y="{hub_y + 42}" text-anchor="middle" class="mono" font-size="10.5" fill="{FAINT}">one table</text>')
-    rungs = [("day 0", "created"), ("day 1", "gentle ping"), ("day 3", "space sees it"), ("day 6", "louder, every 3d")]
-    lx = 836
-    d.append(f'<path d="M{hub_x + hub_w} {hub_y + hub_h / 2} H{lx - 6}" stroke="{LINE_STRONG}"/>')
-    for i, (day, what) in enumerate(rungs):
-        y = 300 - i * 62
-        heat = [INK, LAB, BUILD, SIGNAL][i]
-        d.append(f'<g><rect x="{lx}" y="{y}" width="132" height="44" rx="10" fill="{INSET}" stroke="{LINE_STRONG}"/>'
-                 f'<rect x="{lx}" y="{y}" width="132" height="44" rx="10" fill="none" stroke="{heat}" class="lit" style="animation-delay:{i * 0.7:.1f}s"/>'
-                 f'<text x="{lx + 14}" y="{y + 19}" class="mono-med" font-size="12" fill="{heat}">{day}</text>'
-                 f'<text x="{lx + 14}" y="{y + 35}" class="mono" font-size="11" fill="{DIM}">{what}</text></g>')
-    d.append(f'<path d="M{lx - 6} 344 V{300 - 3 * 62 + 22}" stroke="{LINE_STRONG}" stroke-dasharray="3 4"/>')
-    d.append(f'<text x="{lx + 66}" y="368" text-anchor="middle" class="mono" font-size="10.5" fill="{FAINT}" letter-spacing="1.2">ESCALATION LADDER</text>')
-    style = LIT_STYLE % {"cycle": 2.8}
-    write("jozzo.svg", svg(W, H, back + "".join(left) + "".join(d) + front, ["display", "mono", "mono-med", "body"], style, "Jozzo"))
-
-
 # ── build cards ───────────────────────────────────────────────────────────────
 
 PROJECTS = [
@@ -490,7 +440,6 @@ if __name__ == "__main__":
         for theme in ("dark", "light"):
             section(*s, theme)
     experience()
-    jozzo()
     for i, p in enumerate(PROJECTS):
         build_card(i, *p)
     for i, p in enumerate(PAPERS):

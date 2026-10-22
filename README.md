@@ -24,10 +24,6 @@
   <img src="assets/sections/build-light.svg" width="100%" alt="02 / Build: Featured work" />
 </picture>
 
-<a href="https://jozzo.in">
-  <img src="assets/jozzo.svg" width="100%" alt="Jozzo: shared group state for friends and flatmates. Habits, lists, money and tallies feed one nudge engine with an escalation ladder. Web, Android and iOS." />
-</a>
-
 <p align="center">
   <a href="https://github.com/neverthesameagain/isitevenhuman-"><img src="assets/build/isitevenhuman.svg" width="49%" alt="isitevenHuman: stylometric AI-text detector" /></a>
   <a href="https://github.com/neverthesameagain/EIE-Economic-Intelligence-Engine"><img src="assets/build/eie.svg" width="49%" alt="EIE: Economic Intelligence Engine" /></a>
